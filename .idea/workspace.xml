@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21085285-493d-4314-ae96-9aa00dac52b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k2FiNza6qkJpcnApqFSyGG1ajN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_DW.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\github\appium_demo\app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_contact.TestContact.test_addcontact (1)">
+    <configuration name="pytest for app.testcases.test_contact.TestContact" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="appium_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;app.testcases.test_contact.TestContact&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for app.testcases.test_contact.TestContact.test_addcontact" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="appium_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;app.testcases.test_contact.TestContact.test_addcontact&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_contact.TestContact.test_addcontact (1)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="appium_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_contact.TestContact.test_addcontact&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_contact.TestContact.test_addcontact" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="appium_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_contact.TestContact.test_addcontact&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_webview.TestWebView.test_webview" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="appium_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_webview.TestWebView.test_webview&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_DW.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="appium_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\LZP\AppData\Local\Programs\Python\Python38-32\python38.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_DW.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest in test_DW.py" />
+      <item itemvalue="Python tests.pytest for test_webview.TestWebView.test_webview" />
+      <item itemvalue="Python tests.pytest for test_contact.TestContact.test_addcontact" />
+      <item itemvalue="Python tests.pytest for app.testcases.test_contact.TestContact" />
+      <item itemvalue="Python tests.pytest for app.testcases.test_contact.TestContact.test_addcontact" />
+      <item itemvalue="Python tests.pytest for test_contact.TestContact.test_addcontact (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_contact.TestContact.test_addcontact (1)" />
+        <item itemvalue="Python tests.pytest for app.testcases.test_contact.TestContact.test_addcontact" />
+        <item itemvalue="Python tests.pytest for app.testcases.test_contact.TestContact" />
+        <item itemvalue="Python tests.pytest for test_contact.TestContact.test_addcontact" />
+        <item itemvalue="Python tests.pytest for test_webview.TestWebView.test_webview" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21085285-493d-4314-ae96-9aa00dac52b9" name="Default Changelist" comment="" />
+      <created>1604890905895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604890905895</updated>
+      <workItem from="1604890907398" duration="13131000" />
+      <workItem from="1604920670319" duration="2879000" />
+      <workItem from="1604968482358" duration="762000" />
+      <workItem from="1604972777727" duration="7539000" />
+      <workItem from="1605049517049" duration="17432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604891221864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604891221864" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1604891218738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604891218738" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605068836202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605068836202" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1605068836201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605068836201" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1605068836201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605068836201" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1605068836202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605068836202" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1604891197167">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604891197167" />
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1605049517017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605049517017" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/appium_demo$pytest_for_test_contact_TestContact_test_addcontact__1_.coverage" NAME="pytest for test_contact.TestContact.test_addcontact (1) Coverage Results" MODIFIED="1605068836187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/testcases" />
+    <SUITE FILE_PATH="coverage/appium_demo$pytest_for_test_contact_TestContact_test_contact.coverage" NAME="pytest for test_contact.TestContact.test_contact Coverage Results" MODIFIED="1605063924604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/appium_demo$pytest_in_test_DW_py.coverage" NAME="pytest in test_DW.py Coverage Results" MODIFIED="1604891226631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/appium_demo$pytest_for_test_webview_TestWebView_test_webview.coverage" NAME="pytest for test_webview.TestWebView.test_webview Coverage Results" MODIFIED="1604997956113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/appium_demo$pytest_for_test_browser_TestBrowser_test_browser.coverage" NAME="pytest for test_browser.TestBrowser.test_browser Coverage Results" MODIFIED="1604922295943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/appium_demo$pytest_for_test_DW_TestDW_test_touchaction.coverage" NAME="pytest for test_DW.TestDW.test_touchaction Coverage Results" MODIFIED="1604896965663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/appium_demo$pytest_for_test_contact_TestContact_test_addcontact.coverage" NAME="pytest for test_contact.TestContact.test_addcontact Coverage Results" MODIFIED="1605055857218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/appium_demo$pytest_for_test_params_TestParams_test_search.coverage" NAME="pytest for test_params.TestParams.test_search Coverage Results" MODIFIED="1604915517375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/appium_demo$pytest_for_test_DW_TestDW_test_get_current.coverage" NAME="pytest for test_DW.TestDW.test_get_current Coverage Results" MODIFIED="1604900162654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/appium_demo$pytest_for_test_DW_TestDW_test_scroll_find_element.coverage" NAME="pytest for test_DW.TestDW.test_scroll_find_element Coverage Results" MODIFIED="1604903368857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/appium_demo$pytest_for_test_DW_TestDW_test_search.coverage" NAME="pytest for test_DW.TestDW.test_search Coverage Results" MODIFIED="1604893588215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/appium_demo$pytest_for_test_DW_TestDW_test_myinfo.coverage" NAME="pytest for test_DW.TestDW.test_myinfo Coverage Results" MODIFIED="1604902588823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
